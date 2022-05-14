@@ -12,8 +12,8 @@ language: en
 timezone: ''
 
 # URL
-## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://academia-hexo-netlify-cms.vercel.app
+## Set your site url here. For example, if you use GitHub Page, set url as 'https://angelsnow1129.github.io/project'
+url: https://angelsnow.netlify.app/
 permalink: :title/
 permalink_defaults:
 pretty_urls:
