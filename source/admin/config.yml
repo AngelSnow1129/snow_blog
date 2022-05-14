@@ -1,8 +1,8 @@
 backend:
   name: github
   repo: AngelSnow1129/angelsnow1129.github.io # Path to your Github/Gitlab repository
-  branch: main # Branch to update
-  base_url: https://academia-hexo-netlify-cms.vercel.app
+  branch: master # Branch to update
+  base_url: https://angelsnow.netlify.app/
 
 # These lines should *not* be indented
 media_folder: 'source/images' # Media files will be stored in the repo under source/images
