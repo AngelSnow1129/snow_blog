@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: hangvane/academia-hexo-netlify-cms-vercel # Path to your Github/Gitlab repository
+  repo: AngelSnow1129/angelsnow1129.github.io # Path to your Github/Gitlab repository
   branch: main # Branch to update
   base_url: https://academia-hexo-netlify-cms.vercel.app
 
